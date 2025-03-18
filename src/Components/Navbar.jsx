@@ -2,7 +2,7 @@ import React from 'react'
 
 function Navbar() {
   return (
-    <header className='flex justify-between px-3 bg-gray-400 h-[70px] items-center'>
+    <header className='flex justify-between px-3 bg-gray-400 h-[70px] items-center text-white font-medium'>
       <div className='text-lg font-bold'><span className='text-purple-600'>Alex's </span>Hair Studio</div>
       <ul className='menu flex justify-end items-center gap-4'>
         <li>Home</li>
